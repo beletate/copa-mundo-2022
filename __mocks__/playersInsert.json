@@ -1,0 +1,98 @@
+[
+    {
+        "codigoIdentificador": "BRA",
+        "nome": "Gabriel Jesus",
+        "numero": 7,
+        "posicao": "Atacante"
+    },
+    {
+        "codigoIdentificador": "BRA",
+        "nome": "David Silva",
+        "numero": 23,
+        "posicao": "Volante"
+    },
+    {
+        "codigoIdentificador": "BRA",
+        "nome": "Claudio Bravo",
+        "numero": 15,
+        "posicao": "Goleiro"
+    },
+    {
+        "codigoIdentificador": "ARG",
+        "nome": "Aleksandar",
+        "numero": 12,
+        "posicao": "Zagueiro"
+    },
+    {
+        "codigoIdentificador": "ARG",
+        "nome": "Leroy",
+        "numero": 21,
+        "posicao": "Volante"
+    },
+    {
+        "codigoIdentificador": "BEL",
+        "nome": "Davi",
+        "numero": 14,
+        "posicao": "Volante"
+    },
+    {
+        "codigoIdentificador": "BEL",
+        "nome": "Raheem",
+        "numero": 23,
+        "posicao": "Volante"
+    },
+    {
+        "codigoIdentificador": "CHN",
+        "nome": "Yayason",
+        "numero": 16,
+        "posicao": "Atacante"
+    },
+    {
+        "codigoIdentificador": "COL",
+        "nome": "Eric",
+        "numero": 18,
+        "posicao": "Zagueiro"
+    },
+    {
+        "codigoIdentificador": "CUB",
+        "nome": "De Gea",
+        "numero": 21,
+        "posicao": "Goleiro"
+    },
+    {
+        "codigoIdentificador": "ENG",
+        "nome": "Ander",
+        "numero": 19,
+        "posicao": "Midfielder 1"
+    },
+    {
+        "codigoIdentificador": "ENG",
+        "nome": "Zlatan",
+        "numero": 15,
+        "posicao": "Atacante"
+    },
+    {
+        "codigoIdentificador": "GER",
+        "nome": "Phil",
+        "numero": 22,
+        "posicao": "Zagueiro"
+    },
+    {
+        "codigoIdentificador": "GRE",
+        "nome": "Juan",
+        "numero": 32,
+        "posicao": "Volante"
+    },
+    {
+        "codigoIdentificador": "GUA",
+        "nome": "Henrikh",
+        "numero": 2,
+        "posicao": "Atacante"
+    },
+    {
+        "codigoIdentificador": "EST",
+        "nome": "Paul",
+        "numero": 43,
+        "posicao": "Zagueiro"
+    }
+]

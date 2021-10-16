@@ -1,0 +1,82 @@
+[
+    {
+        "codigo": "BRA",
+        "pais": "Brasil",
+        "grupo": "A"
+    },
+    {
+        "codigo": "ARG",
+        "pais": "Argentina",
+        "grupo": "A"
+    },
+    {
+        "codigo": "BAH",
+        "pais": "Bahamas",
+        "grupo": "A"
+    },
+    {
+        "codigo": "BEL",
+        "pais": "Bélgica",
+        "grupo": "A"
+    },
+    {
+        "codigo": "CAN",
+        "pais": "Cánada",
+        "grupo": "B"
+    },
+    {
+        "codigo": "CHN",
+        "pais": "China",
+        "grupo": "B"
+    },
+    {
+        "codigo": "COL",
+        "pais": "Colômbia",
+        "grupo": "B"
+    },
+    {
+        "codigo": "CUB",
+        "pais": "Cuba",
+        "grupo": "B"
+    },
+    {
+        "codigo": "ECU",
+        "pais": "Equador",
+        "grupo": "C"
+    },
+    {
+        "codigo": "EGY",
+        "pais": "Egito",
+        "grupo": "C"
+    },
+    {
+        "codigo": "ENG",
+        "pais": "Inglaterra",
+        "grupo": "C"
+    },
+    {
+        "codigo": "EST",
+        "pais": "Estónica",
+        "grupo": "C"
+    },
+    {
+        "codigo": "GER",
+        "pais": "Alemanha",
+        "grupo": "D"
+    },
+    {
+        "codigo": "GHA",
+        "pais": "Ganha",
+        "grupo": "D"
+    },
+    {
+        "codigo": "GRE",
+        "pais": "Grécia",
+        "grupo": "D"
+    },
+    {
+        "codigo": "GUA",
+        "pais": "Guatemala",
+        "grupo": "D"
+    }
+]

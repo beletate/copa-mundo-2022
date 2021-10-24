@@ -14,6 +14,6 @@ app.get('/', (req, res) => {
 app.use('/team', teamRouter)
 app.use('/player', playerRouter)
 
-app.listen(port, () => {
+app.listen(() => {
   console.log(`Server started.`)
 })

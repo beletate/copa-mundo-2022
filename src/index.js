@@ -9,7 +9,7 @@ app.use(express.json())
 app.use('/documentation', swaggerUi.serve, swaggerUi.setup(swaggerFile))
 
 app.get('/', (req, res) => {
-  res.send('Copa do mundo')
+  res.send('Check /documentation to see all endpoints availables')
 })
 app.use('/team', teamRouter)
 app.use('/player', playerRouter)

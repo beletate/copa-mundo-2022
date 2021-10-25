@@ -43,7 +43,7 @@
           {
             "in": "body",
             "name": "body",
-            "description": "Team object that needs to be created",
+            "description": "O código é a abreviação do país. Ex.: BRA, ALE",
             "required": true,
             "schema": {
               "$ref": "#/definitions/team"
@@ -182,7 +182,7 @@
           {
             "in": "body",
             "name": "body",
-            "description": "player object that needs to be created",
+            "description": "O código identificador é o código do país que joga. Ex.: BRA, ALE",
             "required": true,
             "schema": {
               "$ref": "#/definitions/player"
@@ -303,7 +303,7 @@
           "type": "string"
         },
         "grupo": {
-          "type": "char"
+          "type": "string"
         }
       }
     },
